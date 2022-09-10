@@ -1,0 +1,29 @@
+.chord-sheet * {
+  all: revert;
+}
+
+.chord-sheet h1 {
+  font-size: 1.5em;
+}
+
+.chord-sheet h2 {
+  font-size: 1.1em;
+}
+
+.chord-sheet table {
+  border-spacing: 0;
+  color: inherit;
+}
+
+.chord-sheet td {
+  white-space: pre-wrap;
+  padding: 3px 0px;
+}
+
+.chord-sheet .chord:not(:last-child) {
+  padding-right: 10px;
+}
+
+.chord-sheet .paragraph {
+  margin-bottom: 0.3em;
+}

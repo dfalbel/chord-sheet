@@ -1,0 +1,6 @@
+title: Chord Sheets
+author: Daniel Falbel
+version: 0.1.0
+contributes:
+  filters:
+    - chord-sheet.lua
